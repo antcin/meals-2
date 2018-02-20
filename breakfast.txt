@@ -1,2 +1,4 @@
 cereal
-coffe
+coffee
+
+Bob: banana, milk and cereals
