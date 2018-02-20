@@ -2,3 +2,4 @@ cereal
 coffee
 
 Bob: banana, milk and cereals
+Bob likes Pepperoni Pizza
